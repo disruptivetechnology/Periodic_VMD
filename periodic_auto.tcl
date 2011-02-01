@@ -3,7 +3,7 @@
 #  		        - Periodic Auto -		      #
 #			periodic_auto.tcl                     #
 #                                                             #
-# Brett Donovan, Jan 2011                                     #
+# Brett Donovan,        Jan 2011                              #
 #                                                             #
 # Pull in cell size information from the unit cell for        #
 # file formats XYZ such as OpenMD, where cell dimensions are  #
